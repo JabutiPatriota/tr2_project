@@ -1,6 +1,6 @@
 # Projeto final - TR2 2024.1
 
-Projeto acessível em: 
+Projeto acessível em: https://github.com/JabutiPatriota/tr2_project/tree/main
 O presente projeto visa implementar um carro autônomo, cujos comandos (ir para frente, para trás, virar à esquerda e virar à direita) podem ser enviados a partir de requisições http (por meio de qualquer navegador de internet conectado à mesma rede do carro).
 
 ## Funcionamento
